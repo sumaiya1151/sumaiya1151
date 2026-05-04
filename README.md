@@ -1,4 +1,4 @@
-# Sumaiya Rahman – Portfolio README
+# Sumaiya Rahman
 
 ## 👩‍💻 About Me
 
@@ -118,4 +118,3 @@ Leading University, Sylhet
 
 ---
 
-⭐ *Feel free to connect or collaborate on research and innovative projects!*
