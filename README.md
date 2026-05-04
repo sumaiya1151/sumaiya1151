@@ -116,5 +116,3 @@ Leading University, Sylhet
 * Develop real-world healthcare solutions
 * Pursue advanced studies in Machine Learning
 
----
-
