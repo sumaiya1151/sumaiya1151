@@ -1,1 +1,15 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+header img {
+  width: 160px !important;
+  height: 160px !important;
+  object-fit: cover;
+  object-position: center top; 
+  border-radius: 50%;
+  border: 3px solid #e0e0e0;
+  display: block;
+  margin: 0 auto 1rem auto;
+}
